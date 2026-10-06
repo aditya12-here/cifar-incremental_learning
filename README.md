@@ -120,7 +120,7 @@ Below is the normalized confusion matrix obtained after training sequentially on
 
 ## 🛡️ Mitigation Strategies for Continual Learning
 
-To overcome catastrophic forgetting, future extensions can implement established continual learning strategies:
+To overcome catastrophic forgetting, in future extensions I will be implementing established continual learning strategies:
 
 1. **Replay Methods**:
    - *Experience Replay*: Maintain a small memory buffer (exemplars) of past task samples and interleave them during training.
